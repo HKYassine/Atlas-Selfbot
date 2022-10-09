@@ -9,4 +9,3 @@ This project is for archival and educational purposes only.
 The "retrotext.js" file is a copy of the retrotext npm module modified by Thomiz. All credit go to the original developpers
 
 The "node-fetch" folder is the NPM node fetch module. Credit go to the original developper.
-"# Atlas-Selfbot" 
