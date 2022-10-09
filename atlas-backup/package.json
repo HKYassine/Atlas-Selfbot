@@ -1,0 +1,68 @@
+{
+  "_from": "discord-backup",
+  "_id": "discord-backup@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-gTSRVendmK4LuIoGzVEvtNJg0hIHsnCiHNda2Fmeu8HWRlsHGgoM+5uAncTgHDDFW9ngfFzShkvwAsBFLIgvfA==",
+  "_location": "/discord-backup",
+  "_phantomChildren": {
+    "async-limiter": "1.0.1",
+    "form-data": "2.5.1",
+    "node-fetch": "2.6.0",
+    "pako": "1.0.10",
+    "prism-media": "1.1.0",
+    "setimmediate": "1.0.5",
+    "tweetnacl": "1.0.1"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "discord-backup",
+    "name": "discord-backup",
+    "escapedName": "discord-backup",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord-backup/-/discord-backup-1.1.2.tgz",
+  "_shasum": "121560d2ebb43faea4898ffb74737d8e5e99c097",
+  "_spec": "discord-backup",
+  "_where": "C:\\Users\\yassin\\Desktop\\Bots discord\\Atlas$",
+  "author": {
+    "name": "Androz2091"
+  },
+  "bugs": {
+    "url": "https://github.com/Androz2091/discord-backup/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js#405bdb5b558eff478d0bde739cee1ee8e40c330b",
+    "fs": "0.0.1-security",
+    "randomstring": "^1.1.5"
+  },
+  "deprecated": false,
+  "description": "A complete framework to facilitate server backup using discord.js v12",
+  "homepage": "https://github.com/Androz2091/discord-backup#readme",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "backup",
+    "clone",
+    "bot",
+    "discord-backup"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "discord-backup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/discord-backup.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}
